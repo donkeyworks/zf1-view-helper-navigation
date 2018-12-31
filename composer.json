@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-view-helper-navigation",
+    "name": "donkeyworks/zendframework1-view-helper-navigation",
     "description": "Zend Framework 1 View_Helper_Navigation component",
     "type": "library",
     "keywords": [
@@ -12,17 +12,17 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-acl": "^1.0.0",
-        "diablomedia/zendframework1-config": "^1.0.0",
-        "diablomedia/zendframework1-loader": "^1.0.0",
-        "diablomedia/zendframework1-navigation": "^1.0.0",
-        "diablomedia/zendframework1-registry": "^1.0.0",
-        "diablomedia/zendframework1-translate": "^1.0.0",
-        "diablomedia/zendframework1-uri": "^1.0.0",
-        "diablomedia/zendframework1-validate-sitemap": "^1.0.0",
-        "diablomedia/zendframework1-view": "^1.0.0",
-        "diablomedia/zendframework1-view-helper-url": "^1.0.0",
-        "diablomedia/zendframework1-view-helper-partial": "^1.0.0"
+        "donkeyworks/zendframework1-acl": "^1.0.0",
+        "donkeyworks/zendframework1-config": "^1.0.0",
+        "donkeyworks/zendframework1-loader": "^1.0.0",
+        "donkeyworks/zendframework1-navigation": "^1.0.0",
+        "donkeyworks/zendframework1-registry": "^1.0.0",
+        "donkeyworks/zendframework1-translate": "^1.0.0",
+        "donkeyworks/zendframework1-uri": "^1.0.0",
+        "donkeyworks/zendframework1-validate-sitemap": "^1.0.0",
+        "donkeyworks/zendframework1-view": "^1.0.0",
+        "donkeyworks/zendframework1-view-helper-url": "^1.0.0",
+        "donkeyworks/zendframework1-view-helper-partial": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
